@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي خذني في بحر الحنين
+> أنت روحي وأنت كل العاشقين
+> في عيونك أرى أحلامي تعود
+> بيننا عشق تجاوز كل الحدود
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
