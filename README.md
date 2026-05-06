@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/afkar-bteakhodny/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Afkar Bteakhodny](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Afkar Bteakhodny](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
