@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Afkar Bteakhodny
+
+This log tracks the cryptographic history and versioning for the song **Afkar Bteakhodny** (afkar-bteakhodny).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:15:17.417065 | `v1` | `b17a1e906296e7840033aa123e2728031c530d11b21fc046c81067c4f3f2c102` | `7cb137e29694bea30cbef00f007d0c3947ed5800a091c055cb917a67c63f6555` | `2026-05-08_afkar-bteakhodny-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
